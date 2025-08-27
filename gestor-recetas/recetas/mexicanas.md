@@ -23,3 +23,5 @@ Si quieren ponerle una cucharada de queso crema, o queso rallado o lo que sea, q
 Autor: @Paulina_Cocina https://www.paulinacocina.net/como-hacer-tacos-mexicanos/21098
 
 # Notas
+
+- Cada una de estas recetas es de un autor lo puedes apoyar accediendo al enlace
