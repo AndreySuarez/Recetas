@@ -3,7 +3,7 @@ Aqui exploraremos algunas recetas de origen italiano
 
 * Focaccia
   La focaccia, una de las recetas estrella de la gastronomía italiana, es muy fácil de hacer. Te enseñamos a preparar en casa esta maravillosa receta originaria de Italia, un pan plano de miga esponjosa y alveolada que podrás cubrir con tus ingredientes favoritos.
-  ![alt text](Foccacia.png)
+  ![alt text](Focaccia.png)
 
 * Espaguetis a la carbonara
   Aprende la receta de los auténticos espaguetis carbonara con guanciale, yema de huevo y sin nata. Uno de los platos de pasta más populares en todo el mundo, fácil y rápido de preparar en casa. Aprende a hacerlo como si fueras italiano de nacimiento.
