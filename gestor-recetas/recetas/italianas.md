@@ -12,3 +12,5 @@ Aqui exploraremos algunas recetas de origen italiano
 * Risotto de champiñones
   Para hacer este risotto de setas hemos utilizado champiñones, la variedad más común en nuestros mercados. Esta es una receta fácil y deliciosa para familiarizarte con este cásico de la gastronomía italiana. Echa un vistazo al paso a paso y descubre los mejores trucos para lograr un risotto en su punto.
   ![alt text](Risotto_champiñones.png)
+
+  ## Se agregaron algunas recetas italianas con su respectiva imagen
