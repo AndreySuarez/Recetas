@@ -1,6 +1,6 @@
 # Recetas tipicas de Mexico
 
-Tacos de pollo
+1. Tacos de pollo
 
 Ingredientes para 10 tacos de pollo
 •	2 pechugas de pollo
@@ -14,9 +14,10 @@ Ingredientes para 10 tacos de pollo
 •	Sal y pimienta
 
 Como hacer tacos de pollo
-1.	Cortar la pechuga en tiritas y macerar por un ratito junto con el jugo de la lima, los ajos picaditos bien chiquitos, el chile seco y la sal y pimienta.
-2.	Calentar la sartén y ponerle un chorrito de aceite de oliva junto al comino.
-3.	Agregar el pollo y dorar. Sumar la cebolla de verdeo y ajustar los sabores. ¡Cuando esté listo reservar!
+
+1.1	Cortar la pechuga en tiritas y macerar por un ratito junto con el jugo de la lima, los ajos picaditos bien chiquitos, el chile seco y la sal y pimienta.
+1.2	Calentar la sartén y ponerle un chorrito de aceite de oliva junto al comino.
+1.3	Agregar el pollo y dorar. Sumar la cebolla de verdeo y ajustar los sabores. ¡Cuando esté listo reservar!
 Si quieren ponerle una cucharada de queso crema, o queso rallado o lo que sea, queda genial con esta receta de tacos de pollo.
 
 Autor: @Paulina_Cocina https://www.paulinacocina.net/como-hacer-tacos-mexicanos/21098
