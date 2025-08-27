@@ -29,3 +29,5 @@ Autor: @ChefJuanxho https://cookpad.com/es/recetas/670065
 
 
 # Notas
+
+Cada una de estas recetas es de un autor lo puedes apoyar accediendo al enlace
